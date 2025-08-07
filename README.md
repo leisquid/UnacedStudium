@@ -1,4 +1,4 @@
-# TuneLab
+# leisquid/UnacedStudium, an archive repository forked from LiuYunPlayer/TuneLab:master
 TuneLab is a lightweight singing voice synthesis editor that supports multiple synthesis engines and supports importing or exporting multiple project formats.
 ## Extension installation
 Drag the `tlx` extension package file into the editor to install it.
